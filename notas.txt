@@ -1,0 +1,6 @@
+--> copiar card de la pagina de ejemplo
+--> agregar el carrito y la lupa y la cantidad debajo del card
+--> agregar pagina detalle producto 
+--> agregar pagina de carrito
+--> agregar pagina de contacto
+--> Pagina de registro
